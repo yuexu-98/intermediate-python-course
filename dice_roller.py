@@ -1,4 +1,9 @@
 import random
+"""
+1. Add more inputs (like player or team name).
+2. Store each player's roll totals in separate arrays.
+3. Choose a dice-based game that you can fully simulate using python.
+"""
 def main():
     dice_rolls = int(input('How many dice would you like to roll?'))
     dice_size = int(input('How many sides are the dice?'))
